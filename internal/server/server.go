@@ -7,9 +7,9 @@ import (
 
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
-	"github.com/akogarewannadie/ozon//internal/config"
-	"github.com/akogarewannadie/ozon//internal/db"
-	"github.com/akogarewannadie/ozon//internal/graph"
+	"github.com/akogarewannadie/ozon/internal/config"
+	"github.com/akogarewannadie/ozon/internal/db"
+	"github.com/akogarewannadie/ozon/internal/graph"
 )
 
 func Run() error {
