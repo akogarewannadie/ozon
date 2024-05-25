@@ -1,4 +1,4 @@
-module awesomeProject1
+module github.com/akogarewannadie/ozon/
 
 go 1.22
 
